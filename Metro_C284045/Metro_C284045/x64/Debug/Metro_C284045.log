@@ -1,0 +1,4 @@
+﻿  Metro_C284045.c
+C:\Users\mc-ma\source\repos\Metro_C284045\Metro_C284045.c(45,38): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\mc-ma\source\repos\Metro_C284045\Metro_C284045.c(185,34): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Metro_C284045.vcxproj -> C:\Users\mc-ma\source\repos\Metro_C284045\x64\Debug\Metro_C284045.exe
